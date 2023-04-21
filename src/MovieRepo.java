@@ -47,7 +47,6 @@ public class MovieRepo {
 
         String movie = scanner.nextLine();
         scanner.close();
-        System.out.println(movie);
         return movie;
     }
 }
